@@ -12,3 +12,7 @@ The Music & Sound Effects are licensed under Creative Commons Attribution-ShareA
 This project was created using Ren'Py, which is mostly covered by The MIT License.
 
 For more information check the licenses folder.
+
+
+# source_code
+A link to the Source Code is located in the source_code folder.
