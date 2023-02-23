@@ -20,3 +20,13 @@ A link to the Source Code is located in the source_code folder.
 
 # credits
 A list with the people involved in this project is located in the credits folder.
+
+
+# disclaimer
+This is a project I work on in my spare time. So don't expect updates to come out fast.
+
+You have a problem with the game? I gave you the Source Code. Fix it yourself.
+
+This project was done using the Nightly Build of Ren'Py. So expect some bugs.
+
+Don't bother doing any bug reports. I won't answer them.
