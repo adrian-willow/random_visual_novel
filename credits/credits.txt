@@ -1,10 +1,29 @@
 This is a list of the people involved in this project.
 
-Adrian Willow: https://mstdn.social/@adrian_willow
-Story
-Coding
-Artwork
+    1. Adrian Willow: https://mstdn.social/@adrian_willow
+        ◦ Artwork
+        ◦ Coding
+        ◦ Story
+    2. líreas: https://youtube.com/@lowreslireas
+        ◦ Music
+        ◦ Sound Effects
 
-líreas: https://youtube.com/@lowreslireas
-Music
-Sound Effects
+
+Some of the sounds used are taken from https://freesound.org/ and modified.
+
+    1. Car Traffic.WAV by derserwas: https://freesound.org/people/derserwas/sounds/262830/
+    2. Cellphone Vibrating on a Table by albertofcasuso: https://freesound.org/people/albertofcasuso/sounds/223505/
+    3. 002.wav by gevaroy: https://freesound.org/people/gevaroy/sounds/173559/
+    4. Real Colt 45 M1911 (shot) by Carmelomike: https://freesound.org/people/Carmelomike/sounds/255216/
+    5. keyboard fast typing accents .wav by Sorinious_Genious: https://freesound.org/people/Sorinious_Genious/sounds/559893/
+    6. Door opening and closing 2 by JakLocke: https://freesound.org/people/JakLocke/sounds/261090/
+    7. Sewer Soundscape, A.wav by InspectorJ: https://freesound.org/people/InspectorJ/sounds/342566/
+
+
+Some of the code is taken from YouTube tutorials and modified.
+
+    1. Ren’Py Drag & Drop Inventory System Tutorial by __ess__ Ren'Py Tutorials: https://www.youtube.com/watch?v=YHbTHSYvQYk&list=PL7wM8yQ325u-l6A-i3TAcbb8V_PYnYB18
+
+
+This project was created using Ren’Py.
+
