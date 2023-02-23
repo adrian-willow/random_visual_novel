@@ -16,3 +16,7 @@ For more information check the licenses folder.
 
 # source_code
 A link to the Source Code is located in the source_code folder.
+
+
+# credits
+A list with the people involved in this project is located in the credits folder.
