@@ -23,6 +23,8 @@ A list with the people involved in this project is located in the credits folder
 
 
 # disclaimer
-This project was created using the Nightly Build of Ren'Py. Expect some bugs.
-I'm mostly working in my spare time. Which is not a lot sometimes. So don't expect updates to come out very fast.
+This project was created using the Nightly Build of Ren'Py. So expect some bugs to occur.
+
+Don't expect updates to come out very fast.
+
 Sorry for grammar mistakes.
